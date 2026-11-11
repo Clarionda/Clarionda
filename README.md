@@ -32,11 +32,25 @@
 
 <img src="https://skillicons.dev/icons?i=react,vue,js,ts,flutter,html,css" />
 
-**Bases de Datos & Infraestructura**
+**Bases de Datos**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,git,kafka,nginx,cloudflare" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
-<sub>También: Clarion 6.0 · COBOL · Spring Batch · Turso (libSQL) · Neon DB · Netlify · Hercules MVS 3.8</sub>
+**Servidores, Contenedores & Observabilidad**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,cloudflare,bash" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+<img src="https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Node Exporter" />
+<img src="https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Loki" />
+<img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=white" alt="Uptime Kuma" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+
+<sub>También: Clarion 6.0 · COBOL · Spring Batch · Turso (libSQL) · Neon DB · Netlify · Hercules MVS 3.8 · Monitoreo self-hosted en VPS</sub>
 
 </div>
 
@@ -50,7 +64,7 @@
       <h3>🏆 Bitwars Sport</h3>
       <p>E-commerce y catálogo deportivo con pasarelas de pago y visor 360°.</p>
       <p><code>React</code> <code>Vite</code> <code>Spring Boot</code> <code>Neon PostgreSQL</code></p>
-      <a href="https://github.com/HotCode2025/Bitwars-Cuarto-Semestre">→ Ver repositorio</a>
+      <a href="https://github.com/HotCode2025/Bitwars-Cuarto-Semestre-Proyecto-Integrador">→ Ver repositorio</a>
     </td>
     <td width="50%" valign="top">
       <h3>📦 Logistock</h3>
