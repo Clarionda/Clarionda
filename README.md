@@ -107,7 +107,7 @@
   <a href="https://www.linkedin.com/in/TU-USUARIO/">
     <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:poncedeleondamianadolfo@gmail.com">
     <img src="https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E" />
   </a>
   <a href="https://TU-PORTFOLIO.com">
